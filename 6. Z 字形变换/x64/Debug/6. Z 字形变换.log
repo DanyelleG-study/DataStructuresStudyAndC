@@ -1,0 +1,5 @@
+﻿  6. Z 字形变换.cpp
+e:\code\study\datastructuresstudy\datastructuresstudy\6. z 字形变换\6. z 字形变换.cpp(37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\study\datastructuresstudy\datastructuresstudy\6. z 字形变换\6. z 字形变换.cpp(47): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\study\datastructuresstudy\datastructuresstudy\6. z 字形变换\6. z 字形变换.cpp(90): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  6. Z 字形变换.vcxproj -> E:\code\study\DataStructuresStudy\DataStructuresStudy\x64\Debug\6. Z 字形变换.exe

@@ -1,0 +1,5 @@
+﻿  迭代器模式.cpp
+e:\code\study\datastructuresstudy\datastructuresstudy\迭代器模式\迭代器模式.cpp(94): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  e:\code\study\datastructuresstudy\datastructuresstudy\迭代器模式\迭代器模式.cpp(93): note: 编译 类 模板 成员函数 "int ConcreteAggregate<int>::getSize(void)" 时
+  e:\code\study\datastructuresstudy\datastructuresstudy\迭代器模式\迭代器模式.cpp(103): note: 参见对正在编译的 类 模板 实例化 "ConcreteAggregate<int>" 的引用
+  迭代器模式.vcxproj -> E:\code\study\DataStructuresStudy\DataStructuresStudy\x64\Debug\迭代器模式.exe

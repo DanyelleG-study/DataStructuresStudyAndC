@@ -1,0 +1,4 @@
+﻿  KMP.cpp
+e:\code\study\datastructuresstudy\datastructuresstudy\kmp\kmp.cpp(35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\study\datastructuresstudy\datastructuresstudy\kmp\kmp.cpp(36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  KMP.vcxproj -> E:\code\study\DataStructuresStudy\DataStructuresStudy\x64\Debug\KMP.exe

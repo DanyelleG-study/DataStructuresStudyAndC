@@ -1,0 +1,29 @@
+
+struct TreeNode {
+      int val;
+      TreeNode *left;
+      TreeNode *right;
+      TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+  };
+class Solution {
+public:
+vector<int> temp;
+void mid(TreeNode *node)
+{
+	if (node->left != NULL)
+		mid(node->left);
+	temp.push_back(node->val);
+    	if (node->right != NULL)
+		mid(node->right);
+}
+    bool isSymmetric(TreeNode* root) {
+if (root != nullptr)
+		mid(root);
+	for (int i = 0; i < temp.size() / 2; i++)
+	{
+		if (temp[i] != temp[temp.size() -i- 1])
+			return false;
+	}
+	return true;
+    }
+};

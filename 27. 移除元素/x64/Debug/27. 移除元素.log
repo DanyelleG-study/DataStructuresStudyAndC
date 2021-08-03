@@ -1,0 +1,5 @@
+﻿  27. 移除元素.cpp
+e:\code\study\datastructuresstudy\datastructuresstudy\27. 移除元素\27. 移除元素.cpp(13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\study\datastructuresstudy\datastructuresstudy\27. 移除元素\27. 移除元素.cpp(19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\study\datastructuresstudy\datastructuresstudy\27. 移除元素\27. 移除元素.cpp(26): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  27. 移除元素.vcxproj -> E:\code\study\DataStructuresStudy\DataStructuresStudy\x64\Debug\27. 移除元素.exe

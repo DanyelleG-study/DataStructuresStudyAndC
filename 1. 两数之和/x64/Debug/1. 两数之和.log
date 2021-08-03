@@ -1,0 +1,12 @@
+﻿  1. 两数之和.cpp
+e:\code\study\datastructuresstudy\datastructuresstudy\1. 两数之和\1. 两数之和.cpp(16): warning C4244: “参数”: 从“__int64”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\code\study\datastructuresstudy\datastructuresstudy\1. 两数之和\1. 两数之和.cpp(17): warning C4244: “参数”: 从“__int64”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  1. 两数之和.vcxproj -> E:\code\study\DataStructuresStudy\DataStructuresStudy\x64\Debug\1. 两数之和.exe
