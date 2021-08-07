@@ -1,0 +1,4 @@
+﻿  30. 串联所有单词的子串.cpp
+e:\code\study\datastructuresstudyandc\30. 串联所有单词的子串\30. 串联所有单词的子串.cpp(26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\study\datastructuresstudyandc\30. 串联所有单词的子串\30. 串联所有单词的子串.cpp(27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  30. 串联所有单词的子串.vcxproj -> E:\code\study\DataStructuresStudyAndC\x64\Debug\30. 串联所有单词的子串.exe
